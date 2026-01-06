@@ -60,11 +60,4 @@ Traducción de:
 - Tests unitarios
 
 
-# Instalar dependencias
-npm install
-
-# Ejecutar en desarrollo
-npm run dev
-
-
 
