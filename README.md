@@ -11,6 +11,12 @@ panel lateral y soporte multilenguaje (Español / Ingles).
 
 ---
 
+![Pantalla 1](https://github.com/MarioPortacio/south-america-map/blob/9f49e8778f3730498a3bcaa36490e8205af2512d/img/p1.jpg)
+
+![Pantalla 2](https://github.com/MarioPortacio/south-america-map/blob/9f49e8778f3730498a3bcaa36490e8205af2512d/img/p2.jpg)
+
+---
+
 ## ✨ Características
 
 - 🗺️ Mapa SVG interactivo de Sudamérica
